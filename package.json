@@ -1,0 +1,10 @@
+{
+  "name": "school-erp-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vedant Deokar",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
